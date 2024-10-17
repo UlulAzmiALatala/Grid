@@ -1,5 +1,8 @@
 <resources>
+    <!-- Nama aplikasi -->
     <string name="app_name">Grid</string>
+
+    <!-- Nama-nama kategori untuk setiap topik -->
     <string name="architecture">Architecture</string>
     <string name="automotive">Automotive</string>
     <string name="biology">Biology</string>
@@ -22,6 +25,6 @@
     <string name="music">Music</string>
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
-    <string name="physics">physics</string>
+    <string name="physics">Physics</string>
     <string name="tech">Tech</string>
 </resources>
