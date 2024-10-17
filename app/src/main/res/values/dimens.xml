@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
+    <!-- Dimensi untuk padding sedang (medium) -->
     <dimen name="padding_medium">16dp</dimen>
+    
+    <!-- Dimensi untuk padding kecil (small) -->
     <dimen name="padding_small">8dp</dimen>
 </resources>
